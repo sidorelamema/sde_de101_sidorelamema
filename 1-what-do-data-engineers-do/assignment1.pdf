@@ -1,0 +1,4 @@
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
+
+When gathering requirements it’s important to understand the business goals,requirements and the desired insights that they want to get from data analysis. This could be done by meeting with stakeholders, asking the right questions, brainstorming, and showing stakeholders what a potential deliverable could look like. Once we have gathered and documented everything, the next step would be enabling data analytics.
+I would start by extracting the data from different sources, do some data cleaning and transformation, like mapping, filtering, or changing the structure of the data and make sure it is securely loaded in the appropriate system(cloud storage, data warehouse). Once the data is available in the data warehouse, I will make sure end-users have the correct permissions and a dashboard tool is set up for them to analyze the data.
